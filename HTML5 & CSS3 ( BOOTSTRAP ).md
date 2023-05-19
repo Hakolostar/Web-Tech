@@ -1,6 +1,6 @@
 # HTML5 & CSS3 ( BOOTSTRAP )
 
-![HTML55.png](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/HTML55.png)
+![HTML55.png](HTML55.png)
 
 ## **WHAT'S NEW ON HTML 5**
 
@@ -17,7 +17,7 @@ HTML5 introduced several new features and improvements over its predecessor, HTM
 
 *These are just a few of the many new features and improvements introduced in HTML5. Overall, HTML5 aimed to enhance the capabilities of web development, promote standardized practices, and provide a more seamless and interactive web browsing experience.*
 
-![images (40).jpeg](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/images_(40).jpeg)
+![images (40).jpeg](images_(40).jpeg)
 
 ## WHAT'S NEW ON CSS 3
 
@@ -137,7 +137,7 @@ These CSS3 selectors provide more granular control over element targeting, allow
 
 ```
 
-![bootstrap-social.png](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/bootstrap-social.png)
+![bootstrap-social.png](bootstrap-social.png)
 
 ## BOOTSTRAP
 
