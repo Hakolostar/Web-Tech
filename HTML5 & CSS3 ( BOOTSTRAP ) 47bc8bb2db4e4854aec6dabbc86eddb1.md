@@ -1,6 +1,6 @@
 # HTML5 & CSS3 ( BOOTSTRAP )
 
-![HTML55.png](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/HTML55.png)
+![HTML55.png](HTML55.png)
 
 ## **WHAT'S NEW ON HTML 5**
 
@@ -17,7 +17,7 @@ HTML5 introduced several new features and improvements over its predecessor, HTM
 
 *These are just a few of the many new features and improvements introduced in HTML5. Overall, HTML5 aimed to enhance the capabilities of web development, promote standardized practices, and provide a more seamless and interactive web browsing experience.*
 
-![images (40).jpeg](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/images_(40).jpeg)
+![images (40).jpeg](images_(40).jpeg)
 
 ## WHAT'S NEW ON CSS 3
 
@@ -133,7 +133,7 @@ CSS3, the latest version of Cascading Style Sheets (CSS), introduced a wide rang
 
 These CSS3 selectors provide more granular control over element targeting, allowing us to apply styles to specific elements based on their attributes, position, relationship with parents, or states. They enhance the versatility of CSS and enable more precise styling and customization of web pages.
 
-![bootstrap-social.png](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/bootstrap-social.png)
+![bootstrap-social.png](bootstrap-social.png)
 
 ## BOOTSTRAP
 
@@ -218,7 +218,7 @@ From working with Bootstrap, i have learned the following:
 
 1. **Cross-Browser Compatibility**: Bootstrap is designed to be compatible with various web browsers, ensuring consistent and reliable rendering across different platforms. By using Bootstrap, I have gained knowledge about building websites that work well across different browsers and versions, reducing the need for extensive cross-browser testing and troubleshooting.
 
-![pngegg.png](HTML5%20&%20CSS3%20(%20BOOTSTRAP%20)%2047bc8bb2db4e4854aec6dabbc86eddb1/pngegg.png)
+![pngegg.png](pngegg.png)
 
 1. **Rapid Prototyping**: Bootstrap's ready-to-use components and responsive grid system enable rapid prototyping of websites and web applications. I learned how to leverage Bootstrap's tools to quickly create prototypes, test ideas, and iterate on our designs, speeding up the development process.
 
